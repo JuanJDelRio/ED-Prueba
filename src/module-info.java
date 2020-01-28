@@ -1,3 +1,3 @@
 module Hola_Mundo {
-	hola
+ int a=5;	
 }
